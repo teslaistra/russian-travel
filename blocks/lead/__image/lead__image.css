@@ -3,11 +3,7 @@
     max-width: 984px;
     object-fit: cover;
     /* min-width: 768px; */
-    width: 90vw;
+
+    /* padding: 0 148px; */
 }
 
-@media screen and (max-width: 768px) {
-    .lead__image {
-        width: 100vw;
-    }
-}
