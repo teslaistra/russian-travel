@@ -4,5 +4,6 @@
     flex-direction: row;
     padding: 0;
     margin: 0;
+    justify-items: end;
     align-items: center;
 }
