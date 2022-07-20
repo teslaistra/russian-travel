@@ -9,5 +9,10 @@
     color: #FFFFFF;
 
     margin-top: 12px;
+
+    transition: opacity 200ms ease-in-out;
 }
 
+.place__link:hover{
+    opacity: 0.8;
+}
