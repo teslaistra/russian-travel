@@ -10,9 +10,6 @@
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    /* background: #2a2c2f;
-    opacity: 0.3;*/
-    transition: opacity 500ms ease-in-out;
 }
 
 
