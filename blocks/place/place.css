@@ -1,4 +1,4 @@
-.place{
+.place {
   display: grid;
   grid-template-columns: minmax(min-content, 460px) minmax(min-content, 484px);
   align-content: flex-start;
@@ -12,17 +12,15 @@
   max-width: 984px;
 }
 
-.place:last-child{
+.place:last-child {
   padding-bottom: 0;
 }
-
 
 @media screen and (max-width: 1280px) {
   .place {
     column-gap: 32px;
 
     grid-template-columns: minmax(min-content, 440px) minmax(min-content, 456px);
-    
   }
 }
 
