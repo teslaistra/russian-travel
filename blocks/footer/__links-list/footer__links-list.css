@@ -1,15 +1,14 @@
 .footer__links-list{
     text-decoration: none;
     margin-right: 18px;
-
 }
 
 .footer__links-list:last-child{
- margin: 0;
+    margin: 0;
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .footer__links-list {
         margin-right: 0;
         margin-bottom: 32px;

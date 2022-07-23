@@ -11,11 +11,10 @@
     color: #AAAAAA;
 }
 
-
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .place__url-heading {
-        font-size: 12px;
-        line-height: 12px;
+        padding-bottom: 12px;
+        width: 288px;
+        margin: 0 auto;
     }
   }
